@@ -37,7 +37,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,200,600");
 @import url("https://fonts.googleapis.com/css?family=Pacifico");
 /*
-* http://meyerweb.com/eric/tools/css/reset/ 
+* http://meyerweb.com/eric/tools/css/reset/
 * v2.0 | 20110126
 * License: none (public domain)
 */
@@ -110,7 +110,7 @@ table {
   margin: 0 auto;
 }
 #loading #preloader:after {
-  content: "Legend is loading";
+  content: "Cabra is loading";
   /* Text under the circles */
   position: absolute;
   text-transform: uppercase;
